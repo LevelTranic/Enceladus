@@ -11,7 +11,7 @@
 - Fastest update speed
 - More mature
 - Excellent performance and resource utilization
-- Lightweight implementation, no need for bulky JVM
+- Lightweight native build, no need for huge JVM
 - Support hardware acceleration
 - Supports mysql and sqlite and can be used without setting up
 - redis support is on the way
@@ -23,7 +23,7 @@
 - Consistent with PaperAPI, allowing for seamless migration
 - Best performance and resource utilization
 - Relatively less mature (started later than Mars and is more difficult to develop)
-- Lightweight implementation, no need for bulky JVM
+- Lightweight native build, no need for huge JVM
 - Support hardware acceleration
 - Support mysql, sqlite, pgsql
 - redis support is on the way
